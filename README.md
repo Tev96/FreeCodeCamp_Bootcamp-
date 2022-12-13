@@ -13,11 +13,26 @@ freeCodeCamp.org offers several developer certifications. Each of these certific
 
 
 
- <strong>FreeCodeCamp Web Development</strong>
+
+ <strong>Responsive Web Design Curriculum Pathway</strong>
 
 
 
-These are the solutiona to challenges and projects that I have completed through the FreeCodeCamp Responsive Web Design curriculum pathway  learning: HTML fundamentals: syntax, elements, images, links, lists, forms, buttons. CSS: selectors, classes, ids, attributes, fonts, colors, sizing, positioning. Accessible and responsive web design: websites for all and on all devices. CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
+These are the solutiona to challenges and projects that I have completed through the FreeCodeCamp Responsive Web Design curriculum pathway achieving certifications, and   learning: HTML fundamentals: syntax, elements, images, links, lists, forms, buttons. CSS: selectors, classes, ids, attributes, fonts, colors, sizing, positioning. Accessible and responsive web design: websites for all and on all devices. CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
+
+
+## Certifications 
+
+
+* [x] [Basic HTML and HTML5]()
+* [x] [Basic CSS]()
+* [x] [Applied Visual Design]()
+* [x] [Applied Accessibility]()
+* [x] [Responsive Web Design Principles]()
+* [x] [CSS Flexbox]()
+* [x] [CSS Grid]()
+* [x] [Responsive Web Design Projects]()
+
 
  <center> 
  
@@ -41,9 +56,34 @@ These are the solutiona to challenges and projects that I have completed through
 
 
 
- <strong>JavaScript Algorithms and Data Structures</strong>
+ <strong>JavaScript Algorithms and Data Structures Cirriculum Pathway</strong>
 
-  <hr>
+  
 
-  These are the solutions to challenges and projects that I have completed through the  FreeCodeCamp JavaScript Algorithms and Data Structures curriculum pathway learning JavaScript: Programming fundamentals: syntax, variables, operations, loops, functions. Data structures: arrays, multidimensional arrays, array methods, objects. Algorithms: searching, sorting, reversing, merging, splicing, hashing. Object-oriented programming: methods, constructors, prototypes, inheritance. Functional programming: terminology, constraints, mapping, filtering.
+  These are the solutions to challenges and projects that I have completed through the  FreeCodeCamp JavaScript Algorithms and Data Structures curriculum pathway achieiving certifications and  learning JavaScript: Programming fundamentals: syntax, variables, operations, loops, functions. Data structures: arrays, multidimensional arrays, array methods, objects. Algorithms: searching, sorting, reversing, merging, splicing, hashing. Object-oriented programming: methods, constructors, prototypes, inheritance. Functional programming: terminology, constraints, mapping, filtering.
+  
+  
+  ## Certifications
+  
+  * [x] [Basic JavaScript]()
+* [x] [ES6]()
+* [x] [Regular Expressions]()
+* [x] [Debugging]()
+* [x] [Basic Data Structures]()
+* [x] [Algorithm Scripting]()
+* [x] [Object Oriented Programming]()
+* [x] [Functional Programming]()
+* [x] [Intermediate Algorithm Scripting]()
+* [x] [JavaScript Algorithms and Data Structures Projects]()
+
+
+<b>Challenges</b>
+
+1.
+
+2.
+
+
+
+<b>Projects</b>
 
