@@ -13,13 +13,22 @@ freeCodeCamp.org offers several developer certifications. Each of these certific
 
 
 
- <strong>FreeCodeCamp Web Development Bootcamp</strong>
+ <strong>FreeCodeCamp Web Development</strong>
 
 
 
-These are the projects that I have completed while attending FreeCodeCamp 6 weeks development bootcamp hosted by Class Central learning: HTML fundamentals: syntax, elements, images, links, lists, forms, buttons. CSS: selectors, classes, ids, attributes, fonts, colors, sizing, positioning. Accessible and responsive web design: websites for all and on all devices. CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
+These are the solutiona to challenges and projects that I have completed through the FreeCodeCamp Responsive Web Design curriculum pathway  learning: HTML fundamentals: syntax, elements, images, links, lists, forms, buttons. CSS: selectors, classes, ids, attributes, fonts, colors, sizing, positioning. Accessible and responsive web design: websites for all and on all devices. CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
 
- <center> <b>Projects</b>
+ <center> 
+ 
+ <b>Challenges</b>
+ 
+ 
+ 1.
+ 
+ 2.
+ 
+ <b>Projects</b>
 
  </center>
 
@@ -32,9 +41,9 @@ These are the projects that I have completed while attending FreeCodeCamp 6 week
 
 
 
- <strong>JavaScript Algorithms and Data Structures Bootcamp</strong>
+ <strong>JavaScript Algorithms and Data Structures</strong>
 
   <hr>
 
-  These are the projects that I have completed while attending FreeCodeCamp 6 weeks development bootcamp hosted by Class Central learning JavaScript: Programming fundamentals: syntax, variables, operations, loops, functions. Data structures: arrays, multidimensional arrays, array methods, objects. Algorithms: searching, sorting, reversing, merging, splicing, hashing. Object-oriented programming: methods, constructors, prototypes, inheritance. Functional programming: terminology, constraints, mapping, filtering.
+  These are the solutions to challenges and projects that I have completed through the  FreeCodeCamp JavaScript Algorithms and Data Structures curriculum pathway learning JavaScript: Programming fundamentals: syntax, variables, operations, loops, functions. Data structures: arrays, multidimensional arrays, array methods, objects. Algorithms: searching, sorting, reversing, merging, splicing, hashing. Object-oriented programming: methods, constructors, prototypes, inheritance. Functional programming: terminology, constraints, mapping, filtering.
 
