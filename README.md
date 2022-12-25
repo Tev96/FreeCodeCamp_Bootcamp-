@@ -21,7 +21,7 @@ freeCodeCamp.org offers several developer certifications. Each of these certific
 These are the solutiona to challenges and projects that I have completed through the FreeCodeCamp Responsive Web Design curriculum pathway achieving certifications, and   learning: HTML fundamentals: syntax, elements, images, links, lists, forms, buttons. CSS: selectors, classes, ids, attributes, fonts, colors, sizing, positioning. Accessible and responsive web design: websites for all and on all devices. CSS layout tools: positioning elements with CSS Flexbox and CSS grid.
 
 
-## Certifications 
+## Pathway 
 
 
 * [x] [Basic HTML and HTML5]()
@@ -63,7 +63,7 @@ These are the solutiona to challenges and projects that I have completed through
   These are the solutions to challenges and projects that I have completed through the  FreeCodeCamp JavaScript Algorithms and Data Structures curriculum pathway achieiving certifications and  learning JavaScript: Programming fundamentals: syntax, variables, operations, loops, functions. Data structures: arrays, multidimensional arrays, array methods, objects. Algorithms: searching, sorting, reversing, merging, splicing, hashing. Object-oriented programming: methods, constructors, prototypes, inheritance. Functional programming: terminology, constraints, mapping, filtering.
   
   
-  ## Certifications
+  ## Pathway
   
   * [x] [Basic JavaScript]()
 * [x] [ES6]()
