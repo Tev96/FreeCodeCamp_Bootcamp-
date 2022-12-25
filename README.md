@@ -65,7 +65,7 @@ These are the solutiona to challenges and projects that I have completed through
   
   ## Pathway
   
-  * [x] [Basic JavaScript]()
+* [x] [Basic JavaScript](https://github.com/Tev96/FreeCodeCamp_Bootcamp-/tree/main/Basic_Javascript)
 * [x] [ES6]()
 * [x] [Regular Expressions]()
 * [x] [Debugging]()
